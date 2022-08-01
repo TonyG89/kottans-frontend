@@ -1,15 +1,9 @@
-<<<<<<< HEAD
-"# kottans-frontend" 
-sd
-
-(img/screens/git.png)
-=======
 ## Stage 0. Self-Study
 ### General
 - [x] Git Basics
-  - [screens](./img/stage0/git.png)
+  - [coursera.org](./img/stage0/coursera.png)
   - <details>
-        <summary>screens</summary>
+        <summary>learngitbranching.js.org(screenshots)</summary>
         <img src="./img/stage0/git.png">        
         <img src="./img/stage0/git2.png">
     </details>
