@@ -1,9 +1,10 @@
 ## Stage 0. Self-Study
 ### General
 - [x] Git Basics
-  - <details><summary>coursera.org</summary>
-  <img src="./img/stage0/coursera.png">
-  </details>
+  - <details>
+        <summary>coursera.org</summary>
+        <img src="./img/stage0/coursera.png">
+    </details>
   - <details>
         <summary>learngitbranching.js.org(screenshots)</summary>
         <img src="./img/stage0/git.png">        
