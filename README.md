@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-"# kottans-frontend" 
-sd
-
-(img/screens/git.png)
-=======
 ## Stage 0. Self-Study
 ### General
 - [x] Git Basics
