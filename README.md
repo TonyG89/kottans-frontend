@@ -3,13 +3,17 @@
 - [x] Git Basics
   - <details>
         <summary>coursera.org</summary>
-        <img src="./img/stage0/coursera.png">
-        <img src="./img/stage0/coursera2.png">
+        <img src="./img/stage0/coursera.png" alt='screenshouts from coursera'>
+        <img src="./img/stage0/coursera2.png" alt='screenshouts from coursera'>
     </details>
   - <details>
         <summary>learngitbranching</summary>
-        <img src="./img/stage0/git.png">        
-        <img src="./img/stage0/git2.png">
+        <img src="./img/stage0/git.png"alt='screenshouts from learngitbranching'>        
+        <img src="./img/stage0/git2.png" alt='screenshouts from learngitbranching'>
+    </details>
+      - <details>
+        <summary>pull-request</summary>
+        <img src="./img/stage0/github.png" alt='screenshout from github'>        
     </details>
   - ##### ЗВІТНІСТЬ
       >Раніше я гіт використовував дуже просто. Для запису однієї гілки, лише для себе та для сбереження старого коду для його відновлення. Система контролю версій дуже корисна річ. Під час перегляду курсів і практичних завдань, зрозумів, що його функціонал багатий. Робота з гілками складна, але цікава. гарна практика. Закортіло поринути у гіт з головою)
