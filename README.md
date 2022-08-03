@@ -1,17 +1,18 @@
 ## Stage 0. Self-Study
 ### General
 - [x] Git Basics
+  - <details><summary>Рефлексія:</summary>
+    #Раніше я гіт використовував дуже просто. Для запису однієї гілки, лише для себе та для сбереження старого коду для його відновлення. Система контролю версій дуже корисна річ. Під час перегляду курсів і практичних завдань, зрозумів, що його функціонал багатий. Робота з гілками складна, але цікава. гарна практика. Закортіло поринути у гіт с головою)
   - <details>
         <summary>coursera.org</summary>
         <img src="./img/stage0/coursera.png">
+        <img src="./img/stage0/coursera2.png">
     </details>
   - <details>
-        <summary>learngitbranching.js.org(screenshots)</summary>
+        <summary>learngitbranching</summary>
         <img src="./img/stage0/git.png">        
         <img src="./img/stage0/git2.png">
     </details>
-    Рефлексія: 
-    Раніше я гіт використовував дуже просто. Для запису однієї гілки, лише для себе та для сбереження старого коду для його відновлення. Система контролю версій дуже корисна річ. Під час перегляду курсів і практичних завдань, зрозумів, що його функціонал багатий. Робота з гілками складна, але цікава. гарна практика. Закортіло поринути у гіт с головою)
 - [ ] Linux CLI and Networking
 - [ ] VCS (hello gitty), GitHub and Collaboration
 ### Front-End Basics
