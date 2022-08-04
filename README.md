@@ -25,7 +25,6 @@
 ###### [Resoilving a Merge Conflict](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/resolving-a-merge-conflict-using-the-command-line)
 ###### [Communicating using Markdown](https://lab.github.com/githubtraining/communicating-using-markdown)
 ###### [Learn anything front-end](https://learn-anything.xyz/web-development/front-end)
-###### [TypingClub](https://www.typingclub.com/) — покращити швидкість набору на клавіатурі
 ###### [How to Learn and Cope with Negative Thoughts](https://guides.hexlet.io/learning/)
  
   </details>
