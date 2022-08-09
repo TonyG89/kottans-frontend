@@ -34,10 +34,10 @@
 - [x] Linux CLI and Networking
   - <details>
         <summary>linuxsurvival.com</summary>
-        <img src="./img/stage0/linuxsurvival.png" alt='screenshots from linuxsurvival'>
-        <img src="./img/stage0/linuxsurvival2.png" alt='screenshots from linuxsurvival'>
-        <img src="./img/stage0/linuxsurvival3.png" alt='screenshots from linuxsurvival'>
-        <img src="./img/stage0/linuxsurvival4.png" alt='screenshots from linuxsurvival'>
+        <img src="./task_linux_cli/linuxsurvival.png" alt='screenshots from linuxsurvival'>
+        <img src="./task_linux_cli/linuxsurvival2.png" alt='screenshots from linuxsurvival'>
+        <img src="./task_linux_cli/linuxsurvival3.png" alt='screenshots from linuxsurvival'>
+        <img src="./task_linux_cli/linuxsurvival4.png" alt='screenshots from linuxsurvival'>
         </details>
   
     ##### ЗВІТНІСТЬ:
