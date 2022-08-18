@@ -45,8 +45,16 @@
   
 #
 
-- [ ] VCS (hello gitty), GitHub and Collaboration
-
+- [x] VCS (hello gitty), GitHub and Collaboration
+ - <details>
+        <summary>Git Collaboration</summary>
+        <img src="./task_git_collaboration/1.png" alt='screenshots from git collaboration'>
+        <img src="./task_git_collaboration/2.png" alt='screenshots from git collaboration'>
+        </details>
+        
+    ##### ЗВІТНІСТЬ:
+  >Робив ці завдання ще спочатку, освіжив свої знання повернувшись до цих завдань. Думаю не раз буду повертатися, так як знання і вміння працювати в git дуже потрібні будут подальшому в роботі
+  
 #
 ## Front-End Basics
 - [ ] Intro to HTML & CSS
