@@ -16,7 +16,7 @@
   ##### ЗВІТНІСТЬ:
   >Раніше я гіт використовував дуже просто. Для запису однієї гілки, лише для себе та для сбереження старого коду для його відновлення. Система контролю версій дуже корисна річ. Під час перегляду курсів і практичних завдань, зрозумів, що його функціонал багатий. Робота з гілками складна, але цікава. гарна практика. Закортіло поринути у гіт з головою)
       
-  <details><summary>Додаткові матеріали:</summary>
+  <details><summary>Додаткові матеріали(для себе):</summary>
  
 ###### [Лекція по Git від Олексія Руденка](https://www.youtube.com/playlist?list=PLS8sEUxbfFY9MnPIFPTNlaS5xX7P5Ge-5)
 ###### [Git за 30 хвилин](https://codeguida.com/post/453)
@@ -59,16 +59,24 @@
 ## Front-End Basics
  - [x] Intro to HTML & CSS
   - <details>
-        <img src="./task_git_collaboration/html.png" alt='screenshots from git collaboration'>
-        <img src="./task_git_collaboration/css.png" alt='screenshots from git collaboration'>
+        <img src="./task_html_css_intro/html.png" alt='Intro to HTML'>
+        <img src="./task_html_css_intro/css.png" alt='Intro to CSS'>
         </details>
+        
     ##### ЗВІТНІСТЬ:
   >цікаво було почути історію HTML. Чув про компанію W3C, але про компанію WHATWG нічого не було мені відомо. Дізнався, що самозакриваючий тег відноситься до XML типу. Щодо css, то згадав та оновив знання по box-sizing та по позиціонуванню.
-- [ ] Responsive Web Design
+- [x] Responsive Web Design
+  - <details>
+        <img src="./task_responsive_web_design/frog.png" alt='screenshot FLEXBOX FROGGY'>
+        <img src="./task_responsive_web_design/carrot.png" alt='screenshot GRID GARDEN'>
+        </details>
+
+    ##### ЗВІТНІСТЬ:
+Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
+
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
-
 
 ## Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - practice
