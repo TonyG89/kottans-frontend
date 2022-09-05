@@ -31,7 +31,7 @@
   
 #
    
-- [x] Linux CLI and Networking
+ - [x] Linux CLI and Networking
   - <details>
         <summary>linuxsurvival.com</summary>
         <img src="./task_linux_cli/linuxsurvival.png" alt='screenshots from linuxsurvival'>
@@ -45,8 +45,8 @@
   
 #
 
-- [x] VCS (hello gitty), GitHub and Collaboration
- - <details>
+ - [x] VCS (hello gitty), GitHub and Collaboration
+  - <details>
         <summary>Git Collaboration</summary>
         <img src="./task_git_collaboration/1.png" alt='screenshots from git collaboration'>
         <img src="./task_git_collaboration/2.png" alt='screenshots from git collaboration'>
@@ -57,11 +57,19 @@
   
 #
 ## Front-End Basics
-- [ ] Intro to HTML & CSS
+ - [x] Intro to HTML & CSS
+  - <details>
+        <img src="./task_git_collaboration/html.png" alt='screenshots from git collaboration'>
+        <img src="./task_git_collaboration/css.png" alt='screenshots from git collaboration'>
+        </details>
+    ##### ЗВІТНІСТЬ:
+  >цікаво було почути історію HTML. Чув про компанію W3C, але про компанію WHATWG нічого не було мені відомо. Дізнався, що самозакриваючий тег відноситься до XML типу. Щодо css, то згадав та оновив знання по box-sizing та по позиціонуванню.
 - [ ] Responsive Web Design
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
 - [ ] Document Object Model - practice
+
+
 ## Advanced Topics
 - [ ] Building a Tiny JS World (pre-OOP) - practice
 - [ ] Object oriented JS - practice
