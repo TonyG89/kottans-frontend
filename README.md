@@ -59,8 +59,8 @@
 ## Front-End Basics
  - [x] Intro to HTML & CSS
   - <details>
-        <img src="./task_git_collaboration/html.png" alt='screenshots from git collaboration'>
-        <img src="./task_git_collaboration/css.png" alt='screenshots from git collaboration'>
+        <img src="./task_html_css_intro/html.png" alt='screenshots from git collaboration'>
+        <img src="./task_html_css_intro/css.png" alt='screenshots from git collaboration'>
         </details>
         
     ##### ЗВІТНІСТЬ:
