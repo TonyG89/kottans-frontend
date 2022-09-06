@@ -59,6 +59,7 @@
 ## Front-End Basics
  - [x] Intro to HTML & CSS
   - <details>
+        <summary>codecademy.com</summary>
         <img src="./task_html_css_intro/html.png" alt='Intro to HTML'>
         <img src="./task_html_css_intro/css.png" alt='Intro to CSS'>
         </details>
@@ -66,13 +67,14 @@
     ##### ЗВІТНІСТЬ:
   >цікаво було почути історію HTML. Чув про компанію W3C, але про компанію WHATWG нічого не було мені відомо. Дізнався, що самозакриваючий тег відноситься до XML типу. Щодо css, то згадав та оновив знання по box-sizing та по позиціонуванню.
 - [x] Responsive Web Design
-  - <details>
+ - <details>
+        <summary>Скріни з ігор</summary>
         <img src="./task_responsive_web_design/frog.png" alt='screenshot FLEXBOX FROGGY'>
         <img src="./task_responsive_web_design/carrot.png" alt='screenshot GRID GARDEN'>
         </details>
 
     ##### ЗВІТНІСТЬ:
-Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
+  >Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
 
 - [ ] HTML & CSS Practice
 - [ ] JavaScript Basics
