@@ -1,0 +1,187 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  margin: 0;
+}
+html,
+body {
+  height: 100%;
+}
+body {
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+img,
+picture,
+video,
+canvas,
+svg {
+  display: block;
+  max-width: 100%;
+}
+input,
+button,
+textarea,
+select {
+  font: inherit;
+}
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  overflow-wrap: break-word;
+}
+#root,
+#__next {
+  isolation: isolate;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  list-style-type: none;
+}
+
+$col1: #f6f1b4;
+$col2: #8cd4aa;
+$col3: #a6b5eb;
+$col4: #d48cc0;
+$col5: #46496c;
+$col-text: #242424;
+
+body {
+  background-color: $col1;
+}
+
+a {
+  text-decoration: none;
+  color: $col-text;
+  text-shadow: -0.5px 0.5px 1px rgba(0, 0, 0, 0.411);
+  & :focus {
+    border-radius: 40% 10%;
+    border: 3px dotted #2cb264;
+  }
+}
+
+.wrapper {
+  margin: 0 auto;
+  height: 90vh;
+  width: 400px;
+  background-color: $col3;
+  animation: shadow 5s infinite;
+  position: relative;
+}
+
+header {
+  background-color: $col2;
+  border-bottom: 3px solid $col4;
+}
+
+#popup {
+  visibility: visible;
+  &:checked {
+    & ~ .burger-menu {
+      visibility: visible;
+    }
+  }
+}
+
+li,
+.list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: wrap;
+
+  &__item {
+    font-size: 14px;
+    margin: 10px;
+    padding: 3px;
+    border-radius: 40% 10%;
+    border: 2px solid #f67f0064;
+    background-color: #f67f0055;
+    text-transform: uppercase;
+    position: relative;
+    & img {
+      height: 20px;
+      padding: 2px;
+    }
+    &:hover {
+      border: 2px solid #f67f00af;
+      background-color: #f67f0090;
+    }
+    &:active {
+      border: 2px solid #2cb264;
+      background-color: $col2;
+    }
+  }
+}
+
+label {
+  display: flex;
+}
+
+.red {
+  background-color: red;
+  position: relative;
+}
+
+.burger-menu {
+  z-index: 1;
+  visibility: hidden;
+  position: absolute;
+  top: 41px;
+  right: 0;
+  border-top-right-radius: 5px;
+  background-color: $col1;
+  animation: shadow 5s infinite;
+  width: 250px;
+  &::after {
+    content: "";
+    position: absolute;
+    bottom: 100%;
+    right: 4px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: transparent transparent $col1 transparent;
+  }
+  & .list {
+    justify-content: center;
+    flex-wrap: wrap;
+    &__item {
+      width: 25%;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      text-transform: capitalize;
+      align-self: center;
+      & img {
+        height: 30px;
+      }
+    }
+  }
+}
+
+@keyframes shadow {
+  from {
+    box-shadow: 2px 2px 1px $col5;
+  }
+  30% {
+    box-shadow: 2px 2px 1px $col4;
+  }
+  60% {
+    box-shadow: 2px 2px 1px $col2;
+  }
+  to {
+    box-shadow: 2px 2px 1px $col5;
+  }
+}
