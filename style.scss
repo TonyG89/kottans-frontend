@@ -3,17 +3,21 @@
 *::after {
   box-sizing: border-box;
 }
+
 * {
   margin: 0;
 }
+
 html,
 body {
   height: 100%;
 }
+
 body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
 }
+
 img,
 picture,
 video,
@@ -22,12 +26,14 @@ svg {
   display: block;
   max-width: 100%;
 }
+
 input,
 button,
 textarea,
 select {
   font: inherit;
 }
+
 p,
 h1,
 h2,
@@ -37,6 +43,7 @@ h5,
 h6 {
   overflow-wrap: break-word;
 }
+
 #root,
 #__next {
   isolation: isolate;
@@ -67,6 +74,7 @@ a {
   transition: padding 0.3s ease;
   width: 100%;
   margin: 0 auto;
+
   &:focus {
     border-radius: 40% 10%;
     padding: 2px;
@@ -87,29 +95,50 @@ header {
   border-bottom: 3px solid $col4;
 }
 
+#popup__main:focus~label {
+  z-index: 1;
+  outline: 2px solid black;
+  border-radius: 40% 10%;
+  padding: 2px;
+}
+
 #popup {
   &__main {
     opacity: 0;
-    transform: scale(2);
+    z-index: -1;
     position: absolute;
-    top: 7px;
-    left: 7px;
-    &:checked ~ .burger-menu {
+
+    &:checked~.burger-menu {
       visibility: visible;
     }
+
+    &:focus {
+      border-radius: 40% 10%;
+      outline: 2px solid black;
+    }
   }
+
   &__more {
     opacity: 0;
     height: 22px;
     position: absolute;
-    top: 300px;
-    width: 100%;
+    left: 0;
+
+    &:focus~label {
+      outline: 2px solid black;
+      margin: 2px;
+    }
+
     &:checked {
-      & ~ .list__more {
+      visibility: visible;
+
+      &~.list__more {
         display: flex;
       }
-      & ~ #more {
+
+      &~.more {
         background-color: $col1;
+
         &:before {
           content: "...";
         }
@@ -118,22 +147,18 @@ header {
   }
 }
 
-a#more {
+.more {
   overflow-x: hidden;
   background-color: $col2;
   border-bottom: 1px solid rgba(0, 0, 0, 0.085);
   transition: opacity 0.3s ease;
+
   &:before {
     content: "MORE";
   }
+
   &:hover {
     opacity: 0.85;
-  }
-  &:focus {
-    border: 2px solid 000;
-    border-radius: 0;
-    margin: 1px 2px;
-    width: 256px;
   }
 }
 
@@ -143,9 +168,11 @@ li,
   justify-content: flex-end;
   align-items: center;
   flex-direction: wrap;
+
   &__more {
     background-color: $col1;
   }
+
   &__item {
     text-align: center;
     font-size: 14px;
@@ -156,20 +183,30 @@ li,
     background-color: #f67f0055;
     text-transform: uppercase;
     position: relative;
+
     & img {
       height: 20px;
       padding: 2px;
       margin: 0 auto;
     }
+
     &:hover {
       border: 2px solid #f67f00af;
       background-color: #f67f0090;
     }
+
     &:active {
       border: 2px solid #2cb264;
       background-color: $col2;
     }
   }
+}
+
+a.focus:focus {
+  outline: 2px solid black;
+  margin: 2px;
+  border-radius: 0;
+  margin-bottom: 5px;
 }
 
 label {
@@ -188,9 +225,11 @@ label {
   width: 260px;
   max-height: 400px;
   overflow-y: auto;
+
   & .list {
     justify-content: center;
     flex-wrap: wrap;
+
     &__item {
       width: 25%;
       display: flex;
@@ -200,10 +239,12 @@ label {
       font-size: 10px;
       text-transform: capitalize;
       align-self: center;
+
       & img {
         height: 30px;
       }
     }
+
     &__more {
       display: none;
     }
@@ -214,12 +255,15 @@ label {
   from {
     box-shadow: 2px 2px 10px $col5;
   }
+
   30% {
     box-shadow: 2px 2px 5px $col4;
   }
+
   60% {
     box-shadow: 2px 2px 1px $col2;
   }
+
   to {
     box-shadow: 2px 2px 5px $col5;
   }
