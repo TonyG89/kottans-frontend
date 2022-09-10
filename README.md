@@ -76,15 +76,33 @@
     ##### ЗВІТНІСТЬ:
   >Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
 
-- [ ] HTML & CSS Practice
-- [ ] JavaScript Basics
-- [ ] Document Object Model - practice
+- [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
+  [Demo](https://okylistik.github.io/kottans-frontend) | [Code base](https://github.com/Okylistik/kottans-frontend/tree/popup) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/497)
+
+    ##### ЗВІТНІСТЬ:
+  >
+- [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
+ - <details>
+        <summary>Скріни</summary>
+        <img src="./task_js_basics/coursera.png" alt='JavaScript Basics coursera'>
+        </details>
+
+    ##### ЗВІТНІСТЬ:
+  >
+- [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
+ - <details>
+        <summary>Скріни</summary>
+        <img src="./task_dom_js/coursera.png" alt='Document Object Model coursera'>
+        </details>
+
+    ##### ЗВІТНІСТЬ:
+  >
 
 ## Advanced Topics
-- [ ] Building a Tiny JS World (pre-OOP) - practice
-- [ ] Object oriented JS - practice
-- [ ] OOP exercise - practice
-- [ ] Offline Web Applications - optional
-- [ ] Memory pair game — real project!
-- [ ] Website Performance Optimization - optional
-- [ ] Friends App - real project!
+- [ ] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
+- [ ] [Object oriented JS - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
+- [ ] [OOP exercise - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md)
+- [ ] [Offline Web Applications - optional](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md)
+- [ ] [Memory pair game — real project!](https://github.com/kottans/frontend/blob/2022_UA/tasks/memory-pair-game.md)
+- [ ] [Website Performance Optimization - optional](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-performance.md)
+- [ ] [Friends App - real project!](https://github.com/kottans/frontend/blob/2022_UA/tasks/friends-app.md)
