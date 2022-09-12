@@ -242,19 +242,4 @@ label {
   to {
     box-shadow: 2px 2px 5px #46496c;
   }
-}
-
-@keyframes shadow {
-  from {
-    box-shadow: 2px 2px 10px #46496c;
-  }
-  30% {
-    box-shadow: 2px 2px 5px #d48cc0;
-  }
-  60% {
-    box-shadow: 2px 2px 1px #8cd4aa;
-  }
-  to {
-    box-shadow: 2px 2px 5px #46496c;
-  }
 }/*# sourceMappingURL=style.css.map */
