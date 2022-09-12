@@ -52,7 +52,7 @@
         <img src="./task_git_collaboration/2.png" alt='screenshots from git collaboration'>
         </details>
         
-    ##### ЗВІТНІСТЬ:
+   ##### ЗВІТНІСТЬ:
   >Робив ці завдання ще спочатку, освіжив свої знання повернувшись до цих завдань. Думаю не раз буду повертатися, так як знання і вміння працювати в git дуже потрібні будут подальшому в роботі
   
 #
@@ -73,21 +73,23 @@
         <img src="./task_responsive_web_design/carrot.png" alt='screenshot GRID GARDEN'>
         </details>
 
-    ##### ЗВІТНІСТЬ:
+   ##### ЗВІТНІСТЬ:
   >Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
 
 - [ ] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
-  [Demo](https://okylistik.github.io/kottans-frontend) | [Code base](https://github.com/Okylistik/kottans-frontend/tree/popup) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/497)
 
-    ##### ЗВІТНІСТЬ:
-  >
+[Demo](https://okylistik.github.io/kottans-frontend) | [Code base](https://github.com/Okylistik/kottans-frontend/tree/popup) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/497)
+
+   ##### ЗВІТНІСТЬ:
+  >.
+  
 - [ ] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
  - <details>
         <summary>Скріни</summary>
         <img src="./task_js_basics/coursera.png" alt='JavaScript Basics coursera'>
         </details>
 
-    ##### ЗВІТНІСТЬ:
+   ##### ЗВІТНІСТЬ:
   >
 - [ ] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
  - <details>
@@ -95,7 +97,7 @@
         <img src="./task_dom_js/coursera.png" alt='Document Object Model coursera'>
         </details>
 
-    ##### ЗВІТНІСТЬ:
+   ##### ЗВІТНІСТЬ:
   >
 
 ## Advanced Topics

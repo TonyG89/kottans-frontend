@@ -1,0 +1,56 @@
+/* big-shoulders-stencil-text-regular - latin */
+@font-face {
+    font-family: 'Big Shoulders Stencil Text';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./big-shoulders-stencil-text-v21-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('./big-shoulders-stencil-text-v21-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./big-shoulders-stencil-text-v21-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./big-shoulders-stencil-text-v21-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./big-shoulders-stencil-text-v21-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./big-shoulders-stencil-text-v21-latin-regular.svg#BigShouldersStencilText') format('svg'); /* Legacy iOS */
+  }
+  /* big-shoulders-stencil-text-900 - latin */
+  @font-face {
+    font-family: 'Big Shoulders Stencil Text';
+    font-style: normal;
+    font-weight: 900;
+    src: url('./big-shoulders-stencil-text-v21-latin-900.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('./big-shoulders-stencil-text-v21-latin-900.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./big-shoulders-stencil-text-v21-latin-900.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./big-shoulders-stencil-text-v21-latin-900.woff') format('woff'), /* Modern Browsers */
+         url('./big-shoulders-stencil-text-v21-latin-900.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./big-shoulders-stencil-text-v21-latin-900.svg#BigShouldersStencilText') format('svg'); /* Legacy iOS */
+  }
+
+  /* delius-regular - latin */
+@font-face {
+    font-family: 'Delius';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./delius-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('./delius-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./delius-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./delius-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./delius-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./delius-v15-latin-regular.svg#Delius') format('svg'); /* Legacy iOS */
+  }
+
+  /* covered-by-your-grace-regular - latin */
+@font-face {
+    font-family: 'Covered By Your Grace';
+    font-style: normal;
+    font-weight: 400;
+    src: url('./covered-by-your-grace-v15-latin-regular.eot'); /* IE9 Compat Modes */
+    src: local(''),
+         url('./covered-by-your-grace-v15-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('./covered-by-your-grace-v15-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('./covered-by-your-grace-v15-latin-regular.woff') format('woff'), /* Modern Browsers */
+         url('./covered-by-your-grace-v15-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('./covered-by-your-grace-v15-latin-regular.svg#CoveredByYourGrace') format('svg'); /* Legacy iOS */
+  }
+
+  
