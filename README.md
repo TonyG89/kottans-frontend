@@ -82,8 +82,8 @@
 
 Чекаю на merge
   
-- [х] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
- - <details>
+- [x] [JavaScript Basics](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-basics.md)
+- <details>
         <summary>Скріни</summary>
         <img src="./task_js_basics/coursera.png" alt='JavaScript Basics coursera'>
         <img src="./task_js_basics/basicjs.png" alt='Basic JavaScript'>
@@ -93,9 +93,9 @@
         <img src="./task_js_basics/funprogram.png" alt='Functional Programming'>
         <img src="./task_js_basics/intalgscript.png" alt='Algorithm Scripting Challenges '>
         </details>
-
-- [х] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
- - <details>
+        
+- [x] [Document Object Model - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-dom.md)
+- <details>
         <summary>Скріни</summary>
         <img src="./task_dom_js/coursera.png" alt='Document Object Model coursera'>
         <img src="./task_dom_js/intalgscript.png" alt='Algorithm Scripting Challenges'>
