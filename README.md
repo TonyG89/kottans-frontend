@@ -12,9 +12,6 @@
   - <details>
         <summary>pull-request</summary>
         <img src="./img/stage0/github.png" alt='screenshot from github'></details>
-
-  ##### ЗВІТНІСТЬ:
-  >Раніше я гіт використовував дуже просто. Для запису однієї гілки, лише для себе та для сбереження старого коду для його відновлення. Система контролю версій дуже корисна річ. Під час перегляду курсів і практичних завдань, зрозумів, що його функціонал багатий. Робота з гілками складна, але цікава. гарна практика. Закортіло поринути у гіт з головою)
       
   <details><summary>Додаткові матеріали(для себе):</summary>
  
@@ -39,10 +36,7 @@
         <img src="./task_linux_cli/linuxsurvival3.png" alt='screenshots from linuxsurvival'>
         <img src="./task_linux_cli/linuxsurvival4.png" alt='screenshots from linuxsurvival'>
         </details>
-  
-    ##### ЗВІТНІСТЬ:
-  >Деякі команди знав, але далеко не всі. Дуже цікаво було ознайомитись деякими з них та використовувати в подальшому.
-  
+
 #
 
  - [x] VCS (hello gitty), GitHub and Collaboration
@@ -51,9 +45,6 @@
         <img src="./task_git_collaboration/1.png" alt='screenshots from git collaboration'>
         <img src="./task_git_collaboration/2.png" alt='screenshots from git collaboration'>
         </details>
-        
-   ##### ЗВІТНІСТЬ:
-  >Робив ці завдання ще спочатку, освіжив свої знання повернувшись до цих завдань. Думаю не раз буду повертатися, так як знання і вміння працювати в git дуже потрібні будут подальшому в роботі
   
 #
 ## Front-End Basics
@@ -72,9 +63,6 @@
         <img src="./task_responsive_web_design/frog.png" alt='screenshot FLEXBOX FROGGY'>
         <img src="./task_responsive_web_design/carrot.png" alt='screenshot GRID GARDEN'>
         </details>
-
-   ##### ЗВІТНІСТЬ:
-  >Раніше вже проходив гри flexbox froggy. Як і тоді зупинився на останньому рівні. Гарна гра, часто використовую флекси в практиці. Щодо грідів, то ніяк не міг до них дійти. Ось зараз настав цей час. Частково розібрался з ними. Розумію, що треба ще практика по грідам.
 
 - [x] [HTML & CSS Practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/html-css-popup.md)
 
@@ -103,13 +91,10 @@
 
 [Demo](https://okylistik.github.io/js-dom) | [Code base](https://github.com/Okylistik/js-dom) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/535) 
 
-Чекаю на merge
 ## Advanced Topics
 - [x] [Building a Tiny JS World (pre-OOP) - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-pre-oop.md)
 
 [Demo](https://okylistik.github.io/a-tiny-JS-world) | [Code base](https://github.com/Okylistik/a-tiny-JS-world) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/550) 
-
-Чекаю на merge
 
 - [x] [Object oriented JS - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-oop.md)
  - <details>
@@ -119,13 +104,9 @@
 
 [Demo](https://okylistik.github.io/frogger/) | [Code base](https://github.com/Okylistik/frogger) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/626) 
 
-Чекаю на merge
-
 - [x] [OOP exercise - practice](https://github.com/kottans/frontend/blob/2022_UA/tasks/js-post-oop.md)
 
 [Demo](https://okylistik.github.io/a-tiny-JS-world) | [Code base](https://github.com/Okylistik/a-tiny-JS-world/tree/my-population) | [PR](https://github.com/kottans/frontend-2022-homeworks/pull/647) 
-
-Чекаю на merge
 
 - [ ] [Offline Web Applications - optional](https://github.com/kottans/frontend/blob/2022_UA/tasks/app-design-offline.md)
 - [x] [Memory pair game — real project!](https://github.com/kottans/frontend/blob/2022_UA/tasks/memory-pair-game.md)
